@@ -2,7 +2,7 @@
 
 ### A collections of ☕ newbie projects written in Java.
 
-![Screenshot 2020-10-03 at 11 09 47 AM](https://user-images.githubusercontent.com/45048950/94982027-e49afe80-0569-11eb-9207-6d4435298bed.png)
+![Screenshot 2020-10-03 at 11 09 47 AM](https://user-images.githubusercontent.com/45048950/94982027-e49afe80-0569-11eb-9207-6d4435298bed.png)![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/94174112-6f735d80-fec7-11ea-9f27-8093475fd49d.gif)
 
 
 ### 💻 Requirements + 🏗️ Built With:
