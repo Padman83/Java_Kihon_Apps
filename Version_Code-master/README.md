@@ -2,12 +2,10 @@
 
 ![Screenshot 2020-10-03 at 11 09 47 AM](https://user-images.githubusercontent.com/45048950/94982027-e49afe80-0569-11eb-9207-6d4435298bed.png)
 
-### 🧰 System Requirements
+### 🧰 System Requirements + 🛠️ Installation:
 
 * Android Studio
 * 100 % Java
-
-### 🛠️ Installation 
 
 #### Open in Android Studio, Get from Version Control -> enter repository URL.
 
