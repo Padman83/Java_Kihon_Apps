@@ -2,12 +2,10 @@
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/95485305-1e359480-09c4-11eb-8f6e-b46ab8a0f8cd.gif)
 
-### 🧰 System Requirements
+### 🧰 System Requirements + 🛠️ Installation:
 
 * Android Studio
 * 100 % Java
-
-### 🛠️ Installation 
 
 #### Open in Android Studio, Get from Version Control -> enter repository URL.
 
