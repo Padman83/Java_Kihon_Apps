@@ -1,4 +1,4 @@
-## Color_SeekBar
+## 📱 Color_SeekBar
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/94463776-0dc93100-01f0-11eb-9981-72992b472b14.gif)
 
