@@ -1,4 +1,4 @@
-## Copy_Text_to_Clipboard
+## 📱 Copy_Text_to_Clipboard
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/95485305-1e359480-09c4-11eb-8f6e-b46ab8a0f8cd.gif)
 
