@@ -4,8 +4,7 @@
 
 ### 🧰 System Requirements + 🛠️ Installation:
 
-* Android Studio
-* 100 % Java
+* Android Studio + Java Language
 
 #### Open in Android Studio, Get from Version Control -> enter repository URL.
 
