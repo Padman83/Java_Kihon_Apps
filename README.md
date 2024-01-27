@@ -7,7 +7,7 @@
 
 ### 💻 Requirements + 🏗️ Built With:
 
-* Android Studio + Java☕
+* { Android Studio + Java☕ }
 
 ### 🔨 Installation: 
 
